@@ -1,0 +1,116 @@
+115
+a:a briny
+after:aft
+am:be
+and:an'
+any:godforsaken
+are:be
+attention:Avast!
+attractive:comely
+bank:treasure chest
+bathroom:head
+beautiful:comely
+beer:grog
+beverage:grog
+beyond:yon
+captain:cap'n
+cheat:hornswoggle
+child:sprog
+children:sprogs
+close:broadside
+coins:pieces of eight
+cola:hair of the dog
+companion:ol' Rumpot
+crazy:addled
+die:visit Davey Jones' Locker
+died:visited Davey Jones' Locker
+dinner:grub
+dog:cur
+dollar:doubloon
+dollars:doubloons
+drunk:loaded to the gunwales
+eat:gobble
+enemy:scallywag
+far:many leagues
+find:come across
+flag:jack
+food:grub
+forward:for
+friend:bucko
+frown:hang the jib
+girl:lass
+happy:grog-filled
+hat:tricorn hat
+heaven:fiddlers green
+hello:ahoy
+here:hither
+hi:yo-ho-ho
+hotel:fleabag inn
+how do you:know ye
+idiot:squiffy
+is:be
+jerk:scurvy dog
+just:jus'
+kill:keel-haul
+killed:keel-hauled
+know:be knowin'
+lake:sunless sea
+lean:careen
+leave:weigh anchor
+left:port
+lol:Har!
+mad:addled
+madam:proud beauty
+mall:market
+man:landlubber
+miss:comely wench
+money:booty
+mother:dear ol' mum, bless her black soul
+my:me
+nap:bit of a lie down
+nearby:broadside
+nonsense:bilge
+nose:prow
+not:nah
+ocean:briny deep
+of:o'
+officer:foul blaggart
+old:barnacle-covered
+pardon me:avast
+pardon:avast
+pretty:comely
+professor:cap'n
+pub:skull and scuppers
+quick:smart
+quickly:smartly
+restaurant:galley
+restroom:head
+right:starboard
+sailor:jack
+ship:furner
+shutup:belay that talk
+sir:matey
+sleep:take a caulk
+soda:grog
+song:shantey
+stop:belay
+stranger:survey dog
+student:swab
+stupid:addled
+talking:blabberin'
+tell:be tellin'
+the:th'
+there:thar
+to:t'
+told:tol'
+want:be needin'
+where:whar
+whip:cat o' nine tails
+woman:lass
+yes:aye
+yonder:yon
+you:ye
+your:yer
+.:. Arrr.
+!:! Shiver me timbers!
+:Blimey!
